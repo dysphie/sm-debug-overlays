@@ -10,3 +10,5 @@ Exposed functions:
 - DrawBox
 
 Read the .inc to see the parameters for each
+
+If you get a checkerboard texture for the lines use `picker` once and it should fix it
